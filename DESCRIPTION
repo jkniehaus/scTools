@@ -1,0 +1,45 @@
+Package: seuratHelpR
+Title: Custom scRNA-seq processing functions that work with seurat objects.
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jesse", "Niehaus", , "jesse.niehaus89@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-6800-4134"))
+Description: What the package does (one paragraph).
+License: use_mit_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2.9000
+Imports: 
+    clustree,
+    cowplot,
+    dittoSeq,
+    doParallel,
+    dplyr,
+    effectsize,
+    effsize,
+    eulerr,
+    findPC,
+    foreach,
+    future,
+    ggplot2,
+    ggpubr,
+    ggrepel,
+    grid,
+    gridExtra,
+    HGNChelper,
+    kableExtra,
+    knitr,
+    Matrix,
+    matrixTests,
+    openxlsx,
+    palmerpenguins,
+    patchwork,
+    ranger,
+    reshape2,
+    scCustomize,
+    sctransform,
+    Seurat,
+    tidygraph,
+    UpSetR
+Suggests: 
+    tidyverse
