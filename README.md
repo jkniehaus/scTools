@@ -1,2 +1,2 @@
 # seuratHelpR
-A line I wrote on my local computer  
+A set of additional functions for Seurat v5 objects.
